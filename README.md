@@ -1,1 +1,3 @@
-This is the second challenge of the freeCodeCamp responsive web design course. This is a survey form that I created from scratch with pure html and css.
+This is the second challenge of the freeCodeCamp responsive web design course. 
+I created this survey form from scratch by using the basic html and css properties. 
+Hope you like it !
